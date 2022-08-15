@@ -1,0 +1,9 @@
+# Eclipse
+.classpath
+.project
+/.settings
+
+# Binaries and other files
+/bin
+/target
+/test-output
